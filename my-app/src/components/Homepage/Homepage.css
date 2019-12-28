@@ -3,6 +3,8 @@
     background-image: url(../../images/VeterPuddle.JPG);
     /* background-repeat: repeat; */
     color: #fff;
+    background-position: center;
+    background-size: cover;
     
     min-height: 900px;
     min-width: 900px;

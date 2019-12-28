@@ -1,0 +1,17 @@
+  
+.footer {
+    background: rgb(71, 22, 22);
+    height: 80px;
+    position: relative;
+    color: #fff;
+    overflow: auto;
+    box-sizing: border-box;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+.bottom {
+    text-align: center;
+    margin-top: 27px;
+    margin-left: 10px
+}
