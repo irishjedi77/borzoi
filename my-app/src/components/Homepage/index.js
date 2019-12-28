@@ -11,8 +11,8 @@ class Homepage extends Component {
         <div>
         <header className="header">
         <div className="boxed">
-        <img src={Chernya} id="chernya" alt= "black borzoi dog"/>
-        <img src={Veter} id="veter" alt= "brown and white borzoi dog" />
+            <img src={Chernya} id="chernya" alt= "black borzoi dog"/>
+            <img src={Veter} id="veter" alt= "brown and white borzoi dog" />
         </div>
         </header>
         </div>
