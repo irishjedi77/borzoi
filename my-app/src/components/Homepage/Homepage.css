@@ -8,8 +8,28 @@
     
     min-height: 900px;
     min-width: 900px;
-    padding: 180px 20px; 
+    padding: 120px 20px; 
     padding-bottom: 180px;
     text-align: center;
 }
+
+#chernya {
+    height: 200px;
+    width: 200px;
+    /* padding: 10px; */
+    border: 2px solid rgb(250, 228, 228);
+    border-radius: 4px;
+    margin-right: 20px;
+   
+    
+}
+
+#veter {
+    height: 200px;
+    width: 200px;
+    /* padding: 10px; */
+    border: 2px solid rgb(250, 228, 228);
+    border-radius: 4px;
+}
+
 

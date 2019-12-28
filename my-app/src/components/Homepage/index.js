@@ -1,5 +1,7 @@
 import React, { Component } from "react";
 import "../Homepage/Homepage.css";
+import Chernya from "/Users/irishjedi77/code/homework/borzoi/my-app/src/images/Chernya2.JPG";
+import Veter from "/Users/irishjedi77/code/homework/borzoi/my-app/src/images/Veter1.jpg";
 
 
 class Homepage extends Component {
@@ -9,8 +11,8 @@ class Homepage extends Component {
         <div>
         <header className="header">
         <div className="boxed">
-        <h2>Meet Veter and Chernya the Russian pups!</h2>
-        <h2>Best woofers in the world.</h2>
+        <img src={Chernya} id="chernya" alt= "black borzoi dog"/>
+        <img src={Veter} id="veter" alt= "brown and white borzoi dog" />
         </div>
         </header>
         </div>

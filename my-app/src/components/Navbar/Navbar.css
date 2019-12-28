@@ -2,6 +2,10 @@
     background: rgb(71, 22, 22);
     position: fixed;
     width: 100%;
+    border-bottom: 2px solid rgb(250, 228, 228);
+    border-top: 2px solid rgb(250, 228, 228);
+    box-shadow: 4px;
+   
 
 }
 
